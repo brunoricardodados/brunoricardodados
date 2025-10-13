@@ -1,16 +1,68 @@
-## Hi there 👋
+# 👨‍🔬 Bruno Silva Ricardo
 
-<!--
-**brunoricardodados/brunoricardodados** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* Data Scientist | Business Intelligence & Automation
 
-Here are some ideas to get you started:
+Based in São Paulo/SP, I am a professional with over 10 years of experience in multinational companies, operating at the strategic intersection of business and technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My passion lies in technology, with a strong focus on Python for Back-end and AI with Machine Learning. I specialize in Business Intelligence and process automation.
+
+I am currently pursuing an MBA in Data Science & Artificial Intelligence, applying concepts of Machine Learning (NLP) and predictive algorithms.
+
+<p align="left">
+    <a href="https://www.linkedin.com/in/bruno-ricardo-27a64128/">
+        <img
+            alt="LinkedIn"
+            title="My LinkedIn Profile"
+            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5"
+        />
+    </a>
+    <a href="https://bit.ly/bruno_projects">
+        <img
+            alt="Notion Projects"
+            title="Projects Dashboard (Notion)"
+            src="https://custom-icon-badges.demolab.com/badge/Notion-Projetos-white?style=for-the-badge&logo=notion&logoColor=black&labelColor=ECECEC"
+        />
+    </a>
+    <a href="https://github.com/brunoricardodados?tab=repositories&sort=stargazers">
+        <img
+            alt="Total Stars"
+            title="Total GitHub Stars"
+            src="https://custom-icon-badges.demolab.com/github/stars/brunoricardodados?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars"
+        />
+    </a>
+    <a href="https://github.com/brunoricardodados?tab=followers">
+        <img
+            alt="Followers"
+            title="Follow me on GitHub"
+            src="https://custom-icon-badges.demolab.com/github/followers/brunoricardodados?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
+        />
+    </a>
+</p>
+
+---
+
+### 🤖 Languages and Technologies
+
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=python,postgresql,mongodb,powerbi,tableau,gcp,git,sap,salesforce,powershell" alt="Python, SQL, MongoDB, PowerBI, Tableau, Google Cloud, Git, SAP, Salesforce, Power Automate" />
+</p>
+
+---
+
+### 📊 Statistics and Highlights
+
+<p align="center">
+    <img
+        alt="GitHub Stats"
+        height="200"
+        src="https://github-readme-stats.vercel.app/api?username=brunoricardodados&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en"
+    />
+</p>
+
+<p align="center">
+    <img
+        alt="Top Languages"
+        height="200"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoricardodados&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9"
+    />
+</p>
