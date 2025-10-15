@@ -44,10 +44,22 @@ I am currently pursuing an MBA in Data Science & Artificial Intelligence, applyi
 ### 🤖 Languages and Technologies
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,postgresql,mongodb,powerbi,tableau,gcp,git,sap,salesforce,powershell" alt="Python, SQL, MongoDB, PowerBI, Tableau, Google Cloud, Git, SAP, Salesforce, Power Automate" />
+    <!-- skillicons -->
+    <img src="https://skillicons.dev/icons?i=python,mysql,mongodb,azure,gcp" />
 </p>
 
----
+<p align="center">
+    <!-- badges -->
+    <img src="https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge&logo=powerbi&logoColor=white" />
+    <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
+    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+    <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
+    <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
+    <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+    <img src="https://img.shields.io/badge/Google%20Analytics%204-FF6F00?style=for-the-badge&logo=googleanalytics&logoColor=white" />
+</p>
+
 
 ### 📊 Statistics and Highlights
 
