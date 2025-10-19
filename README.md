@@ -1,6 +1,6 @@
 # 👨‍🔬 Bruno Silva Ricardo
 
-* Data Scientist | Business Intelligence & Automation
+**Data Scientist | Business Intelligence & Automation**
 
 Based in São Paulo/SP, I am a professional with over 10 years of experience in multinational companies, operating at the strategic intersection of business and technology.
 
