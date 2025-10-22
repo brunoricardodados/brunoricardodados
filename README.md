@@ -1,12 +1,13 @@
 # 👨‍🔬 Bruno Silva Ricardo
 
-**Data Scientist | Business Intelligence & Automation**
+**Data Scientist | Data Engineer | Business Intelligence**
 
 Based in São Paulo/SP, I am a professional with over 10 years of experience in multinational companies, operating at the strategic intersection of business and technology.
 
-My passion lies in technology, with a strong focus on Python for Back-end and AI with Machine Learning. I specialize in Business Intelligence and process automation.
+My passion lies in technology! I am currently pursuing an MBA in Data Science & Artificial Intelligence, applying Machine Learning (NLP) and predictive algorithms to solve real business problems. I also work on automating data workflows to reduce manual effort and increase the reliability of analytics delivery.
 
-I am currently pursuing an MBA in Data Science & Artificial Intelligence, applying concepts of Machine Learning (NLP) and predictive algorithms.
+In Data Engineering with Databricks, I focus on building scalable data pipelines.
+
 
 <p align="left">
     <a href="https://www.linkedin.com/in/bruno-ricardo-27a64128/">
@@ -58,6 +59,10 @@ I am currently pursuing an MBA in Data Science & Artificial Intelligence, applyi
     <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
     <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
     <img src="https://img.shields.io/badge/Google%20Analytics%204-FF6F00?style=for-the-badge&logo=googleanalytics&logoColor=white" />
+    <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
+    <img src="https://img.shields.io/badge/Linguagem%20M-00B4AB?style=for-the-badge&logo=powerbi&logoColor=white" />
+
 </p>
 
 
@@ -75,6 +80,6 @@ I am currently pursuing an MBA in Data Science & Artificial Intelligence, applyi
     <img
         alt="Top Languages"
         height="200"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoricardodados&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoricardodados&hide=html,jupyter%20notebook,css&theme=tokyonight&layout=compact&custom_title=Languages&langs_count=9"
     />
 </p>
