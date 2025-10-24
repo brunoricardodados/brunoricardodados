@@ -62,7 +62,9 @@ In Data Engineering with Databricks, I focus on building scalable data pipelines
 ### 🔧 Featured Projects by Technology
 
 <p align="left">
+  <a href="https://github.com/brunoricardodados?tab=repositories&q=automation" target="_blank">
   <img src="https://img.shields.io/badge/Automation-3B4C5E?style=for-the-badge&logo=gear&logoColor=white" />
+</a>
   <img src="https://img.shields.io/badge/Business%20Intelligence%20%26%20Analytics-2f2f2f?style=for-the-badge&logo=bar-chart&logoColor=white" />
   <img src="https://img.shields.io/badge/Machine%20Learning-6D2932?style=for-the-badge&logo=brain&logoColor=white" />
   <img src="https://img.shields.io/badge/Data%20Governance-465D4C?style=for-the-badge&logo=database&logoColor=white" />
