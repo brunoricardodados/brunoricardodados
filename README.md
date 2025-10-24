@@ -38,7 +38,22 @@ In Data Engineering with Databricks, I focus on building scalable data pipelines
             src="https://custom-icon-badges.demolab.com/github/followers/brunoricardodados?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
         />
     </a>
+    <a href="https://github.com/brunoricardodados/mba-data-science-ai" style="margin-left:6px;">
+        <img
+            alt="MBA Data Science & AI"
+            title="MBA Data Science & AI"
+            src="https://custom-icon-badges.demolab.com/badge/MBA%20Data%20Science%20%26%20AI-black?style=for-the-badge&logo=graduation-cap&logoColor=white&labelColor=343434"
+        />
+    </a>
+    <a href="https://github.com/brunoricardodados/data-engineering-databricks" style="margin-left:6px;">
+        <img
+            alt="Data EngineeringDatabricks"
+            title="Data Engineering Databricks"
+            src="https://custom-icon-badges.demolab.com/badge/Data%20Engineering-Databricks-red?style=for-the-badge&logo=databricks&logoColor=white&labelColor=E01E5A"
+        />
+    </a>
 </p>
+
 
 ---
 
