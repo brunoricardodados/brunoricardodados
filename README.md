@@ -76,9 +76,9 @@ In Data Engineering with Databricks, I focus on building scalable data pipelines
   <a href="https://github.com/brunoricardodados?tab=repositories&q=automation" target="_blank">
   <img src="https://img.shields.io/badge/Automation-3B4C5E?style=for-the-badge&logo=gear&logoColor=white" />
 </a>
-  <a href="https://github.com/brunoricardodados?tab=repositories&q=Business%20Intelligence%20%26%20Analytics" target="_blank">
-    <img src="https://img.shields.io/badge/Business%20Intelligence%20%26%20Analytics-2f2f2f?style=for-the-badge&logo=bar-chart&logoColor=white" />
-  </a>
+  <a href="https://github.com/brunoricardodados?tab=repositories&q=business-intelligence-analytics">
+  <img src="https://img.shields.io/badge/Business%20Intelligence%20%26%20Analytics-2f2f2f?style=for-the-badge&logo=bar-chart&logoColor=white" />
+</a>
 
   <a href="https://github.com/brunoricardodados?tab=repositories&q=Machine%20Learning" target="_blank">
     <img src="https://img.shields.io/badge/Machine%20Learning-6D2932?style=for-the-badge&logo=brain&logoColor=white" />
