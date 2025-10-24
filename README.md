@@ -93,5 +93,6 @@ In Data Engineering with Databricks, I focus on building scalable data pipelines
 </p>
 
 <p align="center">
-    <img alt="Top Languages" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoricardodados&hide=html,jupyter%20notebook,css&theme=tokyonight&layout=compact&custom_title=Languages&langs_count=9" />
+  <img alt="Top Languages" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoricardodados&hide=html,css&theme=tokyonight&layout=compact&custom_title=Languages&langs_count=9" />
 </p>
+
