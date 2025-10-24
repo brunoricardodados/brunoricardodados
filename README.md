@@ -51,10 +51,9 @@ In Data Engineering with Databricks, I focus on building scalable data pipelines
 ### 📂 Featured Projects by Business Area
 
 <p align="left">
-  <a href="https://github.com/brunoricardodados?tab=repositories&q=Sales%20Operations%20%26%20Order%20to%20Cash" target="_blank">
-    <img src="https://img.shields.io/badge/Sales%20Operations%20%26%20Order%20to%20Cash-1E3A5F?style=for-the-badge&logo=briefcase&logoColor=white" />
-  </a>
-
+  <a href="https://github.com/brunoricardodados?tab=repositories&q=sales-operations-order-to-cash">
+  <img src="https://img.shields.io/badge/Sales%20Operations%20%26%20Order%20to%20Cash-1E3A5F?style=for-the-badge&logo=briefcase&logoColor=white" />
+</a>
   <a href="https://github.com/brunoricardodados?tab=repositories&q=Finance" target="_blank">
     <img src="https://img.shields.io/badge/Finance-5B1A18?style=for-the-badge&logo=money&logoColor=white" />
   </a>
