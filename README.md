@@ -8,7 +8,6 @@ My passion lies in technology! I am currently pursuing an MBA in Data Science & 
 
 In Data Engineering with Databricks, I focus on building scalable data pipelines.
 
-
 <p align="left">
     <a href="https://www.linkedin.com/in/bruno-ricardo-27a64128/">
         <img
@@ -38,48 +37,103 @@ In Data Engineering with Databricks, I focus on building scalable data pipelines
             src="https://custom-icon-badges.demolab.com/github/followers/brunoricardodados?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
         />
     </a>
-    <a href="https://github.com/brunoricardodados/mba-data-science-ai" style="margin-left:6px;">
-        <img
-            alt="MBA Data Science & AI"
-            title="MBA Data Science & AI"
-            src="https://custom-icon-badges.demolab.com/badge/MBA%20Data%20Science%20%26%20AI-black?style=for-the-badge&logo=graduation-cap&logoColor=white&labelColor=343434"
-        />
-    </a>
-    <a href="https://github.com/brunoricardodados/data-engineering-databricks" style="margin-left:6px;">
-        <img
-            alt="Data EngineeringDatabricks"
-            title="Data Engineering Databricks"
-            src="https://custom-icon-badges.demolab.com/badge/Data%20Engineering-Databricks-red?style=for-the-badge&logo=databricks&logoColor=white&labelColor=E01E5A"
-        />
-    </a>
-</p>
-
-
+    
 ---
 
 ### 🤖 Languages and Technologies
 
 <p align="center">
-    <!-- skillicons -->
-    <img src="https://skillicons.dev/icons?i=python,mysql,mongodb,azure,gcp" />
+    <img src="https://skillicons.dev/icons?i=python,mysql,mongodb,azure,gcp,powerbi,sap,tableau,salesforce,excel,anaconda,colab,ga,sql,json" />
 </p>
 
-<p align="center">
-    <!-- badges -->
-    <img src="https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge&logo=powerbi&logoColor=white" />
-    <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
-    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-    <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
-    <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-    <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
-    <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
-    <img src="https://img.shields.io/badge/Google%20Analytics%204-FF6F00?style=for-the-badge&logo=googleanalytics&logoColor=white" />
-    <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
-    <img src="https://img.shields.io/badge/Linguagem%20M-00B4AB?style=for-the-badge&logo=powerbi&logoColor=white" />
+---
+
+### 📂 Featured Projects by Business Area
+
+<p align="left">
+
+  <details style="display: inline-block; background-color: #0077B5; color: white; padding: 10px 16px; border-radius: 6px; margin: 6px; width: 200px; box-shadow: 0 2px 4px rgba(0,0,0,0.2);">
+    <summary style="font-weight: bold; cursor: pointer; color: white;">Sales Operations & Order to Cash</summary>
+    <ul style="list-style-type: none; padding-left: 0; margin-top: 5px;">
+      <li><a href="#" style="color: #ECECEC;">📎 Projeto 1</a></li>
+      <li><a href="#" style="color: #ECECEC;">📎 Projeto 2</a></li>
+    </ul>
+  </details>
+
+  <details style="display: inline-block; background-color: #488207; color: white; padding: 10px 16px; border-radius: 6px; margin: 6px; width: 200px; box-shadow: 0 2px 4px rgba(0,0,0,0.2);">
+    <summary style="font-weight: bold; cursor: pointer; color: white;">Finance</summary>
+    <ul style="list-style-type: none; padding-left: 0; margin-top: 5px;">
+      <li><a href="#" style="color: #ECECEC;">📎 Projeto 1</a></li>
+      <li><a href="#" style="color: #ECECEC;">📎 Projeto 2</a></li>
+    </ul>
+  </details>
+
+  <details style="display: inline-block; background-color: #1155ba; color: white; padding: 10px 16px; border-radius: 6px; margin: 6px; width: 200px; box-shadow: 0 2px 4px rgba(0,0,0,0.2);">
+    <summary style="font-weight: bold; cursor: pointer; color: white;">Supply Chain</summary>
+    <ul style="list-style-type: none; padding-left: 0; margin-top: 5px;">
+      <li><a href="#" style="color: #ECECEC;">📎 Projeto 1</a></li>
+      <li><a href="#" style="color: #ECECEC;">📎 Projeto 2</a></li>
+    </ul>
+  </details>
+
+  <details style="display: inline-block; background-color: #1a1a1a; color: white; padding: 10px 16px; border-radius: 6px; margin: 6px; width: 200px; box-shadow: 0 2px 4px rgba(0,0,0,0.2);">
+    <summary style="font-weight: bold; cursor: pointer; color: white;">Business Intelligence & Analytics</summary>
+    <ul style="list-style-type: none; padding-left: 0; margin-top: 5px;">
+      <li><a href="#" style="color: #ECECEC;">📎 Projeto 1</a></li>
+      <li><a href="#" style="color: #ECECEC;">📎 Projeto 2</a></li>
+    </ul>
+  </details>
+
+  <details style="display: inline-block; background-color: #4B0000; color: white; padding: 10px 16px; border-radius: 6px; margin: 6px; width: 200px; box-shadow: 0 2px 4px rgba(0,0,0,0.2);">
+    <summary style="font-weight: bold; cursor: pointer; color: white;">Data Governance & Quality</summary>
+    <ul style="list-style-type: none; padding-left: 0; margin-top: 5px;">
+      <li><a href="#" style="color: #ECECEC;">📎 Projeto 1</a></li>
+      <li><a href="#" style="color: #ECECEC;">📎 Projeto 2</a></li>
+    </ul>
+  </details>
 
 </p>
 
+---
+
+### 🔧 Featured Projects by Technology
+
+<p align="left">
+
+  <details style="display: inline-block; background-color: #1155ba; color: white; padding: 10px 16px; border-radius: 6px; margin: 6px; width: 200px; box-shadow: 0 2px 4px rgba(0,0,0,0.2);">
+    <summary style="font-weight: bold; cursor: pointer; color: white;">Automation</summary>
+    <ul style="list-style-type: none; padding-left: 0; margin-top: 5px;">
+      <li><a href="#" style="color: #ECECEC;">📎 Projeto 1</a></li>
+      <li><a href="#" style="color: #ECECEC;">📎 Projeto 2</a></li>
+    </ul>
+  </details>
+
+  <details style="display: inline-block; background-color: #0077B5; color: white; padding: 10px 16px; border-radius: 6px; margin: 6px; width: 200px; box-shadow: 0 2px 4px rgba(0,0,0,0.2);">
+    <summary style="font-weight: bold; cursor: pointer; color: white;">Business Intelligence</summary>
+    <ul style="list-style-type: none; padding-left: 0; margin-top: 5px;">
+      <li><a href="#" style="color: #ECECEC;">📎 Projeto 1</a></li>
+      <li><a href="#" style="color: #ECECEC;">📎 Projeto 2</a></li>
+      <li><a href="#" style="color: #ECECEC;">📎 Projeto 3</a></li>
+    </ul>
+  </details>
+
+  <details style="display: inline-block; background-color: #488207; color: white; padding: 10px 16px; border-radius: 6px; margin: 6px; width: 200px; box-shadow: 0 2px 4px rgba(0,0,0,0.2);">
+    <summary style="font-weight: bold; cursor: pointer; color: white;">Machine Learning</summary>
+    <ul style="list-style-type: none; padding-left: 0; margin-top: 5px;">
+      <li><a href="#" style="color: #ECECEC;">📎 Projeto 1</a></li>
+    </ul>
+  </details>
+
+  <details style="display: inline-block; background-color: #1a1a1a; color: white; padding: 10px 16px; border-radius: 6px; margin: 6px; width: 200px; box-shadow: 0 2px 4px rgba(0,0,0,0.2);">
+    <summary style="font-weight: bold; cursor: pointer; color: white;">Data Governance</summary>
+    <ul style="list-style-type: none; padding-left: 0; margin-top: 5px;">
+      <li><a href="#" style="color: #ECECEC;">📎 Projeto 1</a></li>
+      <li><a href="#" style="color: #ECECEC;">📎 Projeto 2</a></li>
+    </ul>
+  </details>
+
+</p>
+---
 
 ### 📊 Statistics and Highlights
 
