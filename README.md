@@ -1,13 +1,19 @@
 
 # 👨‍🔬 Bruno Silva Ricardo
 
-**Data Scientist | Data Engineer | Business Intelligence**
+**Data Scientist | Data Engineer | Business Partner**
 
 Based in São Paulo/SP, I am a professional with over 10 years of experience in multinational companies, operating at the strategic intersection of business and technology.
 
 My passion lies in technology! I am currently pursuing an MBA in Data Science & Artificial Intelligence, applying Machine Learning W/ algorithms to solve real business problems. I also work on automating data workflows to reduce manual effort and increase the reliability of analytics delivery.
 
 In Data Engineering, I focus on building scalable data pipelines.
+
+---
+
+**⚠️ Disclaimer: All data presented in this portfolio has been anonymized in compliance with LGPD (General Data Protection Law).**
+
+**⚠️ Aviso: Todos os dados apresentados neste portfólio foram anonimizados em conformidade com a LGPD (Lei Geral de Proteção de Dados).**
 
 <p align="left">
     <a href="https://www.linkedin.com/in/bruno-ricardo-27a64128/">
