@@ -91,7 +91,15 @@ In Data Engineering, I focus on building scalable data pipelines.
 </p>
 
 ---
+### Data Science Toolkit & Algorithms
 
+<p align="left">
+  <a href="https://github.com/brunoricardodados/data-science-playbook">
+    <img src="https://img.shields.io/badge/Data%20Science%20Playbook-FF8C00?style=for-the-badge&logo=jupyter&logoColor=white" />
+  </a>
+</p>
+
+---
 ### 📊 Statistics and Highlights
 
 <p align="center">
