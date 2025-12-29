@@ -97,7 +97,7 @@ In Data Engineering, I focus on building scalable data pipelines.
   <a href="https://github.com/brunoricardodados?tab=repositories&q=data-science-playbook">
     <img src="https://img.shields.io/badge/Data%20Science%20Playbook-FF8C00?style=for-the-badge&logo=jupyter&logoColor=white" />
   </a>
-  <a href="https://github.com/brunoricardodados?tab=repositories&q=agente-de-ia">
+  <a href="https://github.com/brunoricardodados?tab=repositories&q=agentes-de-ia">
     <img src="https://img.shields.io/badge/Agentes%20de%20IA-556B2F?style=for-the-badge&logo=jupyter&logoColor=white" />
   </a>
 </p>
