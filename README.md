@@ -1,7 +1,7 @@
 
 # 👨‍🔬 Bruno Silva Ricardo
 
-**Data Scientist | Data Engineer | Business Partner**
+**Data Scientist | A.I. Engineer | Business Partner**
 
 Based in São Paulo/SP, I am a professional with over 10 years of experience in multinational companies, operating at the strategic intersection of business and technology.
 
@@ -9,11 +9,7 @@ My passion lies in technology! I am currently pursuing an MBA in Data Science & 
 
 In Data Engineering, I focus on building scalable data pipelines.
 
----
 
-**⚠️ Disclaimer: All data presented in this portfolio has been anonymized in compliance with LGPD (General Data Protection Law).**
-
-**⚠️ Aviso: Todos os dados apresentados neste portfólio foram anonimizados em conformidade com a LGPD (Lei Geral de Proteção de Dados).**
 
 <p align="left">
     <a href="https://www.linkedin.com/in/bruno-ricardo-27a64128/">
@@ -29,6 +25,12 @@ In Data Engineering, I focus on building scalable data pipelines.
         <img alt="Followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/brunoricardodados?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white" />
     </a>
 </p>
+
+---
+
+**⚠️ Disclaimer: All data presented in this portfolio has been anonymized in compliance with General Data Protection Law.**
+
+**⚠️ Aviso: Todos os dados apresentados neste portfólio foram anonimizados em conformidade com a LGPD (Lei Geral de Proteção de Dados).**
 
 ---
 
@@ -101,15 +103,3 @@ In Data Engineering, I focus on building scalable data pipelines.
     <img src="https://img.shields.io/badge/Agentes%20de%20IA-556B2F?style=for-the-badge&logo=jupyter&logoColor=white" />
   </a>
 </p>
-
----
-### 📊 Statistics and Highlights
-
-<p align="center">
-    <img alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api?username=brunoricardodados&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" />
-</p>
-
-<p align="center">
-  <img alt="Top Languages" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoricardodados&hide=html,css&theme=tokyonight&layout=compact&custom_title=Languages&langs_count=9" />
-</p>
-
