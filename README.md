@@ -100,7 +100,7 @@ In Data Engineering, I focus on building scalable data pipelines.
   <a href="https://github.com/brunoricardodados/agente-bp-ia">
     <img src="https://img.shields.io/badge/Agentes%20de%20IA-556B2F?style=for-the-badge&logoColor=white" />
   </a>
-</p>
+</p>>
 
 ---
 ### 📊 Statistics and Highlights
