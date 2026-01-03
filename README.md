@@ -71,7 +71,10 @@ In Data Engineering, I focus on building scalable data pipelines.
   <a href="https://github.com/brunoricardodados?tab=repositories&q=it">
     <img src="https://img.shields.io/badge/IT-3B4C5E?style=for-the-badge&logo=bar-chart&logoColor=white" />
   </a>
-</p>
+  <a href="https://github.com/brunoricardodados?tab=repositories&q=procurement">
+    <img src="https://img.shields.io/badge/Procurement-1E3A5F?style=for-the-badge&logo=shopping-cart&logoColor=white" />
+  </a>
+ </p>
 
 ---
 
@@ -90,6 +93,10 @@ In Data Engineering, I focus on building scalable data pipelines.
   <a href="https://github.com/brunoricardodados?tab=repositories&q=data-governance">
     <img src="https://img.shields.io/badge/Data%20Governance-465D4C?style=for-the-badge&logo=database&logoColor=white" />
   </a>
+  <a href="https://github.com/brunoricardodados?tab=repositories&q=sap-ecc-s4hana">
+  <img src="https://img.shields.io/badge/SAP%20ECC%20%26%20S%2F4HANA-3B4C5E?style=for-the-badge&logo=sap&logoColor=white" />
+</a>
+  
 </p>
 
 ---
