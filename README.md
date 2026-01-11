@@ -12,7 +12,7 @@ In Data Engineering, I focus on building scalable data pipelines.
 
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/bruno-ricardo-27a64128/">
+    <a href="https://www.linkedin.com/in/bruno-silva-ricardo-27a64128/">
         <img alt="LinkedIn" title="My LinkedIn Profile" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
     </a>
     <a href="https://bit.ly/bruno_projects">
