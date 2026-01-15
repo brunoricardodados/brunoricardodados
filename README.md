@@ -95,6 +95,9 @@ In Data Engineering, I focus on building scalable data pipelines.
   </a>
   <a href="https://github.com/brunoricardodados?tab=repositories&q=sap-ecc-s4hana">
   <img src="https://img.shields.io/badge/SAP%20ECC%20%26%20S%2F4HANA-3B4C5E?style=for-the-badge&logo=sap&logoColor=white" />
+  </a>
+  <a href="https://github.com/brunoricardodados?tab=repositories&q=data-lake">
+  <img src="https://img.shields.io/badge/Data%20Lake%20Architecture-6D2932?style=for-the-badge&logo=database&logoColor=white" />
 </a>
   
 </p>
