@@ -90,6 +90,9 @@ In Data Engineering, I focus on building scalable data pipelines.
   <a href="https://github.com/brunoricardodados?tab=repositories&q=machine-learning">
     <img src="https://img.shields.io/badge/Machine%20Learning-6D2932?style=for-the-badge&logo=brain&logoColor=white" />
   </a>
+  <a href="https://github.com/brunoricardodados?tab=repositories&q=Computer-Vision">
+   <img src="https://img.shields.io/badge/Computer%20Vision-FF8C00?style=for-the-badge&logo=jupyter&logoColor=white" />
+  </a>
   <a href="https://github.com/brunoricardodados?tab=repositories&q=data-governance">
     <img src="https://img.shields.io/badge/Data%20Governance-465D4C?style=for-the-badge&logo=database&logoColor=white" />
   </a>
